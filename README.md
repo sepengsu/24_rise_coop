@@ -8,3 +8,7 @@
 1. 시뮬레이션 환경 구축
 2. SLAM 알고리즘 적용 및 센서 퓨징
 3. MPC control
+
+
+## 시물레이션 환경
+ catkin_ws/src 폴더에 추가하고 명령창에 catkin_build 하면 됩니다.
