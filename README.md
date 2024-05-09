@@ -12,3 +12,11 @@
 
 ## 시물레이션 환경
  catkin_ws/src 폴더에 추가하고 명령창에 catkin_make 하면 됩니다.
+
+## 초기 git repostiory 연결 방법 
+0. E-manual에서 PC setup 진행 
+1. catkin_ws 폴더를 작업폴더로 설정
+2. git pull https://github.com/sepengsu/24_rise_coop.git
+3. git remote add origin https://github.com/sepengsu/24_rise_coop.git
+4. git checkout -b main
+5. it push -u origin main 
