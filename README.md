@@ -11,4 +11,4 @@
 
 
 ## 시물레이션 환경
- catkin_ws/src 폴더에 추가하고 명령창에 catkin_build 하면 됩니다.
+ catkin_ws/src 폴더에 추가하고 명령창에 catkin_make 하면 됩니다.
