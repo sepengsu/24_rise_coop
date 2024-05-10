@@ -19,4 +19,4 @@
 2. git pull https://github.com/sepengsu/24_rise_coop.git
 3. git remote add origin https://github.com/sepengsu/24_rise_coop.git
 4. git checkout -b main
-5. it push -u origin main 
+5. git push -u origin main 
