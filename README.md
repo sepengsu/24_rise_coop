@@ -26,7 +26,8 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
 6. git clone -b noetic-devel https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 7. git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
 8. git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git
-9. cd ~/catkin_ws && catkin_make
+9. git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+10. cd ~/catkin_ws && catkin_make
 
 ## 초기 git repostiory 연결 방법 
 0. E-manual에서 PC setup 진행 
