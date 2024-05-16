@@ -1,0 +1,39 @@
+<launch>
+  <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
+  <param name="model" value="$(arg model)"/>
+  <!-- Arguments -->
+  
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r1.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r2.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r3.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r4.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r5.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r6.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r7.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+  <include file="$(find rotation_robot)/launch/gotogoals_r8.launch">
+	  <arg name="model" value="$(arg model)" />
+  </include>
+  
+</launch>

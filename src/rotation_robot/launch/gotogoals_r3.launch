@@ -1,0 +1,9 @@
+<launch>
+  <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
+  <arg name="robot_name"  default="robot3"/>
+  
+  <!-- Launch node -->
+  <node pkg="rotation_robot" type="gotogoals_innerlane3.py" name="gotogoals_innerlane3" output="screen">
+    
+  </node>
+</launch>

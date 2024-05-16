@@ -164,6 +164,16 @@ include_directories(
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
  catkin_install_python(PROGRAMS
+   scripts/gotogoals_innerlane.py
+   scripts/gotogoals_outlane.py
+   scripts/gotogoals_innerlane1.py
+   scripts/gotogoals_outlane2.py
+   scripts/gotogoals_innerlane3.py
+   scripts/gotogoals_outlane4.py
+   scripts/gotogoals_innerlane5.py
+   scripts/gotogoals_outlane6.py
+   scripts/gotogoals_innerlane7.py
+   scripts/gotogoals_outlane8.py
    scripts/gotogoalsv2.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
