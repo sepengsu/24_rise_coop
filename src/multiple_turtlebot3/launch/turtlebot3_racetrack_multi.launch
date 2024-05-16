@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    
+    <group ns="robot1">
+        <param name="tf_prefix" value="robot1_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="0.0"/>
+            <arg name="y_pos" value="0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot1"/>
+        </include>
+    </group>
+    
+    <group ns="robot2">
+        <param name="tf_prefix" value="robot2_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-0.5"/>
+            <arg name="y_pos" value="-0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot2"/>
+        </include>
+    </group>  
+    
+    <group ns="robot3">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-1.0"/>
+            <arg name="y_pos" value="0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot3"/>
+        </include>
+    </group>
+    
+    <group ns="robot4">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-1.5"/>
+            <arg name="y_pos" value="-0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot4"/>
+        </include>
+    </group>
+    
+    <group ns="robot5">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-2.0"/>
+            <arg name="y_pos" value="0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot5"/>
+        </include>
+    </group>
+    
+    <group ns="robot6">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-2.5"/>
+            <arg name="y_pos" value="-0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot6"/>
+        </include>
+    </group>
+    
+    <group ns="robot7">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-3.0"/>
+            <arg name="y_pos" value="0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot7"/>
+        </include>
+    </group>
+    
+    <group ns="robot8">
+        <param name="tf_prefix" value="robot3_tf"/>
+        <include file="$(find multiple_turtlebot3)/launch/turtlebot3_racetrack_one.launch">
+            <arg name="x_pos" value="-3.5"/>
+            <arg name="y_pos" value="-0.3"/>
+            <arg name="z_pos" value="0.04"/>
+            <arg name="robot_name" value="Robot8"/>
+        </include>
+    </group>  
+  
+  
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+     <arg name="world_name" value="$(find turtlebot3_gazebo)/worlds/racetrack.world"/>
+     <arg name="paused" value="false"/>
+     <arg name="use_sim_time" value="true"/>
+     <arg name="gui" value="true"/>
+     <arg name="headless" value="false"/>
+     <arg name="debug" value="false"/>
+    </include>
+  
+
+  
+  
+</launch>
+
+
