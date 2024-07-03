@@ -1,0 +1,30 @@
+Panels:
+  - Class: rviz/Displays
+    Name: Displays
+  - Class: rviz/Views
+    Name: Views
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz/Grid
+      Enabled: true
+      Name: Grid
+      Plane Cell Count: 10
+      Plane Cell Size: 1
+    - Class: rviz/PointCloud2
+      Enabled: true
+      Name: MapCloud
+      Topic: /rtabmap/cloud_map
+    - Class: rviz/TF
+      Enabled: true
+      Name: TF
+  Global Options:
+    Fixed Frame: map
+  Views:
+    Current:
+      Class: rviz/TopDownOrtho
+      Focal Point: [0, 0, 0]
+      Height: 20
+      Name: TopDownOrtho
+      Position: [0, 0, 20]
+      Width: 20
