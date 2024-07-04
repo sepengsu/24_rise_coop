@@ -1,6 +1,6 @@
 [submodule "catkin_ws/src/darknet_ros/darknet"]
 	path = catkin_ws/src/darknet_ros/darknet
-	url = https://github.com/leggedrobotics/darknet/tree/d22bbf38bd012f13d2b50c8d98149cd4a9889b7a
+	url = https://github.com/leggedrobotics/darknet.git
 [submodule "librealsense"]
 	path = librealsense
 	url = https://github.com/IntelRealSense/librealsense.git
