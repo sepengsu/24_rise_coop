@@ -18,8 +18,8 @@
 ### 2. SLAM 
 ![image](https://github.com/sepengsu/24_rise_coop/assets/111292354/ff808c6a-e038-4d9c-9a2a-e9d092f58a38)
 
-### 3. 
-
+### 3. RtabMap
+![alt text](<image/Screenshot from 2024-07-03 13-14-49.png>)
 
 ## 사용법 
 https://github.com/sepengsu/rise_coop_manual
