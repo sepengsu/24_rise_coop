@@ -1,0 +1,15 @@
+[submodule "catkin_ws/src/darknet_ros/darknet"]
+	path = catkin_ws/src/darknet_ros/darknet
+	url = https://github.com/leggedrobotics/darknet/tree/d22bbf38bd012f13d2b50c8d98149cd4a9889b7a
+[submodule "librealsense"]
+	path = librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/pjreddie/darknet.git
