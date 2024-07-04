@@ -22,5 +22,8 @@
 ![alt text](<image/Screenshot from 2024-07-03 13-14-49.png>)
 
 ## 사용법 
-https://github.com/sepengsu/rise_coop_manual
+https://github.com/sepengsu/rise_coop_manual 
+
+## 주의사항
+이 레지파토리는 놔두고 다른 프로젝트에 옮겨 사용할 것
 
