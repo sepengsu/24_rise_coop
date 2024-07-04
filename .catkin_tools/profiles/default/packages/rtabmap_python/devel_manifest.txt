@@ -1,6 +1,0 @@
-rtabmap_ros/rtabmap_python
-/home/jaewon/catkin_ws/devel/.private/rtabmap_python/cmake.lock /home/jaewon/catkin_ws/devel/./cmake.lock
-/home/jaewon/catkin_ws/devel/.private/rtabmap_python/lib/python3/dist-packages/rtabmap_python/__init__.py /home/jaewon/catkin_ws/devel/lib/python3/dist-packages/rtabmap_python/__init__.py
-/home/jaewon/catkin_ws/devel/.private/rtabmap_python/lib/pkgconfig/rtabmap_python.pc /home/jaewon/catkin_ws/devel/lib/pkgconfig/rtabmap_python.pc
-/home/jaewon/catkin_ws/devel/.private/rtabmap_python/share/rtabmap_python/cmake/rtabmap_pythonConfig.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_python/cmake/rtabmap_pythonConfig.cmake
-/home/jaewon/catkin_ws/devel/.private/rtabmap_python/share/rtabmap_python/cmake/rtabmap_pythonConfig-version.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_python/cmake/rtabmap_pythonConfig-version.cmake

@@ -1,8 +1,0 @@
-rtabmap_ros/rtabmap_costmap_plugins
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/cmake.lock /home/jaewon/catkin_ws/devel/./cmake.lock
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/lib/librtabmap_costmap_plugins.so /home/jaewon/catkin_ws/devel/lib/librtabmap_costmap_plugins.so
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/lib/librtabmap_costmap_plugins2.so /home/jaewon/catkin_ws/devel/lib/librtabmap_costmap_plugins2.so
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/lib/pkgconfig/rtabmap_costmap_plugins.pc /home/jaewon/catkin_ws/devel/lib/pkgconfig/rtabmap_costmap_plugins.pc
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/lib/rtabmap_costmap_plugins/voxel_markers /home/jaewon/catkin_ws/devel/lib/rtabmap_costmap_plugins/voxel_markers
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/share/rtabmap_costmap_plugins/cmake/rtabmap_costmap_pluginsConfig-version.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_costmap_plugins/cmake/rtabmap_costmap_pluginsConfig-version.cmake
-/home/jaewon/catkin_ws/devel/.private/rtabmap_costmap_plugins/share/rtabmap_costmap_plugins/cmake/rtabmap_costmap_pluginsConfig.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_costmap_plugins/cmake/rtabmap_costmap_pluginsConfig.cmake

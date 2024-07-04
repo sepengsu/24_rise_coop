@@ -1,5 +1,0 @@
-velodyne_description
-/home/jaewon/catkin_ws/devel/.private/velodyne_description/cmake.lock /home/jaewon/catkin_ws/devel/./cmake.lock
-/home/jaewon/catkin_ws/devel/.private/velodyne_description/lib/pkgconfig/velodyne_description.pc /home/jaewon/catkin_ws/devel/lib/pkgconfig/velodyne_description.pc
-/home/jaewon/catkin_ws/devel/.private/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake /home/jaewon/catkin_ws/devel/share/velodyne_description/cmake/velodyne_descriptionConfig.cmake
-/home/jaewon/catkin_ws/devel/.private/velodyne_description/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake /home/jaewon/catkin_ws/devel/share/velodyne_description/cmake/velodyne_descriptionConfig-version.cmake

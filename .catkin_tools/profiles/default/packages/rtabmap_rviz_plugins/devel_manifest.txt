@@ -1,6 +1,0 @@
-rtabmap_ros/rtabmap_rviz_plugins
-/home/jaewon/catkin_ws/devel/.private/rtabmap_rviz_plugins/cmake.lock /home/jaewon/catkin_ws/devel/./cmake.lock
-/home/jaewon/catkin_ws/devel/.private/rtabmap_rviz_plugins/lib/librtabmap_rviz_plugins.so /home/jaewon/catkin_ws/devel/lib/librtabmap_rviz_plugins.so
-/home/jaewon/catkin_ws/devel/.private/rtabmap_rviz_plugins/lib/pkgconfig/rtabmap_rviz_plugins.pc /home/jaewon/catkin_ws/devel/lib/pkgconfig/rtabmap_rviz_plugins.pc
-/home/jaewon/catkin_ws/devel/.private/rtabmap_rviz_plugins/share/rtabmap_rviz_plugins/cmake/rtabmap_rviz_pluginsConfig.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_rviz_plugins/cmake/rtabmap_rviz_pluginsConfig.cmake
-/home/jaewon/catkin_ws/devel/.private/rtabmap_rviz_plugins/share/rtabmap_rviz_plugins/cmake/rtabmap_rviz_pluginsConfig-version.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_rviz_plugins/cmake/rtabmap_rviz_pluginsConfig-version.cmake

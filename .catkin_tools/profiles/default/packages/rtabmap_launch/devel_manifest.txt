@@ -1,5 +1,0 @@
-rtabmap_ros/rtabmap_launch
-/home/jaewon/catkin_ws/devel/.private/rtabmap_launch/cmake.lock /home/jaewon/catkin_ws/devel/./cmake.lock
-/home/jaewon/catkin_ws/devel/.private/rtabmap_launch/lib/pkgconfig/rtabmap_launch.pc /home/jaewon/catkin_ws/devel/lib/pkgconfig/rtabmap_launch.pc
-/home/jaewon/catkin_ws/devel/.private/rtabmap_launch/share/rtabmap_launch/cmake/rtabmap_launchConfig-version.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_launch/cmake/rtabmap_launchConfig-version.cmake
-/home/jaewon/catkin_ws/devel/.private/rtabmap_launch/share/rtabmap_launch/cmake/rtabmap_launchConfig.cmake /home/jaewon/catkin_ws/devel/share/rtabmap_launch/cmake/rtabmap_launchConfig.cmake
