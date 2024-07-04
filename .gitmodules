@@ -1,0 +1,3 @@
+[submodule "making_package/rtabmap"]
+    path = making_package/rtabmap
+    url = https://github.com/introlab/rtabmap.git
