@@ -1,9 +1,9 @@
 [submodule "making_package/rtabmap"]
     path = making_package/rtabmap
     url = https://github.com/introlab/rtabmap.git
-[submodule "src/cartographer/src/cartographer/cartographer_ros"]
-	path = src/cartographer/src/cartographer/cartographer_ros
-	url = https://github.com/cartographer-project/cartographer_ros.git
+[submodule "src/cartographer/cartographer_ros"]
+    path = src/cartographer/cartographer_ros
+    url = https://github.com/cartographer-project/cartographer_ros.git
 [submodule "src/rtabmap_ros"]
     path = src/rtabmap_ros
     url = https://github.com/introlab/rtabmap_ros.git
