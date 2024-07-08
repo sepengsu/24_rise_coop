@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 
 import rospy
 import numpy as np
@@ -65,7 +65,9 @@ def callback(data):
 if __name__ == '__main__':
     bridge = CvBridge()
     rospy.init_node('move_robot')
-    rospy.Subscriber('/robot/camera/image_raw', Image, callback)
+    # rospy.Subscriber('/robot/camera/image_raw', Image, callback)
+    rospy.Subscriber('/camera/imaage', Image, callback)
+    # rospy.Subscriber('/camera/image/compressed', Image, callback)  
     pub = rospy.Publisher('/cmd_vel', Twist, queue_size=1)
     rate = rospy.Rate(2)
     rospy.spin()
