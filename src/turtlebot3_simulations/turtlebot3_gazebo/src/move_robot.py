@@ -3,7 +3,7 @@
 import rospy
 import numpy as np
 import cv2
-from scipy.ndimage.measurements import center_of_mass
+from scipy.ndimage import center_of_mass 
 from geometry_msgs.msg import Twist
 from cv_bridge import CvBridge, CvBridgeError
 from sensor_msgs.msg import Image
